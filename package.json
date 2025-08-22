@@ -1,0 +1,25 @@
+{
+  "name": "create-json-data",
+  "version": "1.0.0",
+  "description": "create fake data for testing perpose in json formate ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkjalap/Create-Json-Data.git"
+  },
+  "author": "Deepak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkjalap/Create-Json-Data/issues"
+  },
+  "homepage": "https://github.com/dkjalap/Create-Json-Data#readme",
+  "dependencies": {
+    "node": "^24.6.0",
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {}
+}
